@@ -54,7 +54,7 @@ for i in range(0,maxint,2):
       else:
         csystem[x[i]][y[i]] += 1
   #for i in range(len(x)):
-printsys(csystem)
+#printsys(csystem)
 counter = 0
 for i in range(maxint):
   for j in range(maxint):
